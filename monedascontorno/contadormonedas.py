@@ -1,5 +1,4 @@
 import cv2
-from cv2 import *
 import numpy as np
 
 valor_gauss = 3
